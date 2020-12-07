@@ -1,0 +1,79 @@
+body {
+	background-color: #f7dad9;
+	color: black ;
+	font-weight : bold;
+	font-size: 16px;
+	font-family: 'Libre Baskerville', serif;
+	text-align: center 
+}
+
+h1 {
+	color: #968c83;
+	font-weight: 200;
+	letter-spacing: 20px;
+	font-size: 50px;
+	font-family: 'Architects Daughter', cursive;
+	text-align: center;
+}
+
+h3 {
+	color : #FFFFE0 ;
+	font-size: 35px;
+	font-family: TimesNewRoman;
+	text-align: center;
+}
+
+h2 {
+	color : #FFFFE0 ;
+	font-size: 45px;
+	font-family: TimesNewRoman;
+	text-align: center;
+}
+
+#heart {
+	color: red;
+	font-weight: 100;
+}
+
+#aca {
+	color: #F08080;
+}
+
+#pro {
+	color: #6E2C00;
+}
+.icone {
+ 	letter-spacing: 70px;
+ 	font-size: 100px;
+ 	color: #968c83;
+ 	text-align: center;
+ }
+
+.icone:hover {
+	color: #d6d2c4;
+}
+
+.louyetu {
+	color: #968c83;
+	font-size: 20px;
+	text-decoration: none;
+}
+
+.shadowed {
+	box-shadow: 5px 5px 3px black;
+}
+
+.text-justify {
+	text-align: justify;
+}
+.lien {
+	margin-top: 40px;
+}
+
+div.style {
+    background: aliceblue;
+    padding: 10px;
+    margin: 20px;
+    box-shadow: 0px 10px 30px rgba(0,0,0,0.5);
+    border-radius: 3px;
+}
